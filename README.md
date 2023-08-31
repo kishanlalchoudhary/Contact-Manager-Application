@@ -1,6 +1,6 @@
 # Contact Manager
 
-The Contact Manager is a web application created with MERN Stack. It enables users to effectively manage and store their contacts. The application implements essential features such as adding, deleting, editing, and searching contacts to provide a comprehensive contact management solution.
+The Contact Manager is a web application created with MERN Stack. It enables users to effectively manage and store their contacts.
 
 ## Features
 
