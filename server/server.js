@@ -11,8 +11,8 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 var whitelist = [
-  "http://localhost:3000/",
-  "https://contact-manager-mern.netlify.app/",
+  "http://localhost:3000",
+  "https://contact-manager-mern.netlify.app",
 ];
 var corsOptions = {
   origin: function (origin, callback) {
