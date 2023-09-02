@@ -12,7 +12,7 @@ The Contact Manager is a web application created with MERN Stack. It enables use
 
 - **Search Contact**: The application provides a search functionality that allows users to find specific contacts based on their name, email, or phone number. The search results are displayed in real-time as the user types.
 
-## Technologies Used
+## Tech Stack
 
 - **React**: A front-end JavaScript library for building user interfaces. Users can view their contacts, add new ones, edit existing entries, and perform searches, all without needing to refresh the page.
 
